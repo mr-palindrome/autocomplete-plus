@@ -13,7 +13,7 @@
     "dompurify": "^2.2.6",
     "fuzzaldrin": "^2.1.0",
     "fuzzaldrin-plus": "^0.6.0",
-    "grim": "^2.0.1",
+    "grim": "^2.0.3",
     "marked": "^0.7.0",
     "minimatch": "^3.0.3",
     "selector-kit": "^0.1",
